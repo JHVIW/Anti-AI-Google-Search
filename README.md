@@ -1,0 +1,1 @@
+# Anti-AI-Google-Search
