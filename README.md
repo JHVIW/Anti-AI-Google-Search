@@ -1,4 +1,3 @@
-```markdown
 Tired of the AI google search slob?
 
 # Google UDM=14 Toggle
@@ -29,6 +28,3 @@ Open extension popup. Toggle checkbox. Search on any google.* domain.
 - popup.html  
 - popup.js  
 
-## License
-MIT  
-```
